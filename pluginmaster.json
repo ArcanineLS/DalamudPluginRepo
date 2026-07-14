@@ -6,7 +6,7 @@
         "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
         "Changelog": "",
         "InternalName": "HrothgarMakeCoin",
-        "AssemblyVersion": "1.14.1.0",
+        "AssemblyVersion": "1.14.2.0",
         "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,12 +20,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.1.0/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1783987200"
+        "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.2.0/latest.zip",
+        "DownloadCount": 2,
+        "LastUpdate": "1784065087"
     }
 ]
