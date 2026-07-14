@@ -1,0 +1,27 @@
+{
+  "Author": "ArcanineLS",
+  "Name": "HrothgarMakeCoin",
+  "InternalName": "HrothgarMakeCoin",
+  "AssemblyVersion": "1.14.1.0",
+  "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
+  "Tags": [
+    "Utility",
+    "marketboard",
+    "retainer",
+    "autoretainer"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "",
+  "Punchline": "Hrothgar make coin. Coin good.",
+  "Changelog": "",
+  "AcceptsFeedback": true
+}
