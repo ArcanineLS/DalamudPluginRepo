@@ -2,7 +2,7 @@
   "Author": "ArcanineLS",
   "Name": "HrothgarMakeCoin",
   "InternalName": "HrothgarMakeCoin",
-  "AssemblyVersion": "1.14.2.0",
+  "AssemblyVersion": "1.14.3.0",
   "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
@@ -22,6 +22,6 @@
   ],
   "IconUrl": "",
   "Punchline": "Hrothgar make coin. Coin good.",
-  "Changelog": "",
+  "Changelog": "Adds opt-in auto-list: post whitelisted items to a retainer's free market slots. Off by default, dry run on. Per-item price mode, mandatory minimum, quantity, and Spread to split a stack across several listings.",
   "AcceptsFeedback": true
 }
