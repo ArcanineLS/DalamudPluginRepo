@@ -24,7 +24,7 @@ Click **+**, **Save**, then open the **Plugin Installer** (`/xlplugins`) and ins
 
 | Plugin | Description |
 | --- | --- |
-| **[🪙 HrothgarMakeCoin](https://github.com/ArcanineLS/HrothgarMakeCoin)** | Automatically undercuts your retainer Market Board listings, with optional [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) post-venture integration. A rebrand/fork of [Dagobert](https://github.com/SHOEGAZEssb/Dagobert) by SHOEGAZEssb. |
+| **[🪙 HrothgarMakeCoin](https://github.com/ArcanineLS/HrothgarMakeCoin)** | Automatically undercuts your retainer Market Board listings, with opt-in auto-listing and [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) post-venture integration. A rebrand/fork of [Dagobert](https://github.com/SHOEGAZEssb/Dagobert) by SHOEGAZEssb. |
 
 ## ⚙️ How it works
 
