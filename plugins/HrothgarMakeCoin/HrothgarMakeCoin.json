@@ -1,8 +1,8 @@
 {
-  "Author": "ArcanineLS",
-  "Name": "HrothgarMakeCoin",
+  "Author": "Bancho",
+  "Name": "Hrothgar Make Coin",
   "InternalName": "HrothgarMakeCoin",
-  "AssemblyVersion": "1.14.3.1",
+  "AssemblyVersion": "1.14.4.0",
   "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
@@ -20,8 +20,8 @@
   "ImageUrls": [
     ""
   ],
-  "IconUrl": "",
+  "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
   "Punchline": "Hrothgar make coin. Coin good.",
-  "Changelog": "Adds opt-in auto-list: post whitelisted items to a retainer's free market slots. Off by default, dry run on. Per-item price mode, mandatory minimum, quantity, and Spread to split a stack across several listings.",
+  "Changelog": "Auto-list now handles an item's NQ and HQ as separate entries, so you can whitelist both and each is priced against its own quality's market. Fixes a bug where typing a Max price could silently wipe an item's Min price floor. The market board price is now matched to the item it was requested for, so a slow reply can't be posted as the next item's price. Sliders take a double-click to type an exact value, and the price check wait now defaults to 1500ms (HQ needs the extra time to look past the NQ listings).",
   "AcceptsFeedback": true
 }
