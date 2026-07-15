@@ -4,7 +4,7 @@
         "Name": "Hrothgar Make Coin",
         "Punchline": "Hrothgar make coin. Coin good.",
         "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
-        "Changelog": "Auto-list now handles an item's NQ and HQ as separate entries, so you can whitelist both and each is priced against its own quality's market. Fixes a bug where typing a Max price could silently wipe an item's Min price floor. The market board price is now matched to the item it was requested for, so a slow reply can't be posted as the next item's price. Sliders take a double-click to type an exact value, and the price check wait now defaults to 1500ms (HQ needs the extra time to look past the NQ listings).",
+        "Changelog": "Auto-list now handles an item's NQ and HQ as separate entries, so you can whitelist both and each is priced against its own quality's market. Fixes a bug where typing a Max price could silently wipe an item's Min price floor. The market board price is now matched to the item it was requested for, so a slow reply can't be posted as the next item's price. Sliders take a double-click to type an exact value, and the price check wait now defaults to 2000ms (HQ needs the extra time to look past the NQ listings).",
         "InternalName": "HrothgarMakeCoin",
         "AssemblyVersion": "1.14.4.0",
         "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
