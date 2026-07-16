@@ -1,0 +1,29 @@
+{
+  "Author": "Bancho",
+  "Name": "Hrothgar Scent",
+  "InternalName": "HrothgarScent",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "A nearby-player list where every row shows whether that player is targeting you, with a watcher history and alerts.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ArcanineLS/HrothgarScent",
+  "Tags": [
+    "Utility",
+    "players",
+    "nearby",
+    "radar",
+    "target",
+    "social"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
+  "Punchline": "Hrothgar smell you. Hrothgar know who watching.",
+  "Changelog": "First release. A nearby-player list and a who-is-targeting-you detector in one window: every row carries an eye showing whether that player is looking at you, and watchers can sort to the top. Keeps a watcher history with timestamps and visit counts, and can alert you in chat or with a sound when someone new locks on. Filter by name, distance, race, level, party, friends and an ignore list; keep a focus list of people you care about and get told when they turn up. Sortable, hideable columns that remember their layout, a minimal HUD mode, and a server info bar count. Hides itself in PvP.",
+  "AcceptsFeedback": true
+}
