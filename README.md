@@ -5,7 +5,7 @@
 **A custom [Dalamud](https://github.com/goatcorp/Dalamud) plugin repository for [ArcanineLS](https://github.com/ArcanineLS)'s FFXIV plugins.**
 
 [![Dalamud](https://img.shields.io/badge/Dalamud-plugin%20repo-ad8af5?style=flat-square)](https://github.com/goatcorp/Dalamud)
-[![Plugins](https://img.shields.io/badge/plugins-1-a6c2ff?style=flat-square)](#-plugins)
+[![Plugins](https://img.shields.io/badge/plugins-2-a6c2ff?style=flat-square)](#-plugins)
 [![Regenerate PluginMaster](https://img.shields.io/github/actions/workflow/status/ArcanineLS/DalamudPluginRepo/regenerate.yml?style=flat-square&label=pluginmaster)](https://github.com/ArcanineLS/DalamudPluginRepo/actions/workflows/regenerate.yml)
 
 </div>
@@ -25,6 +25,7 @@ Click **+**, **Save**, then open the **Plugin Installer** (`/xlplugins`) and ins
 | Plugin | Description |
 | --- | --- |
 | **[🪙 HrothgarMakeCoin](https://github.com/ArcanineLS/HrothgarMakeCoin)** | Automatically undercuts your retainer Market Board listings, with opt-in auto-listing and [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) post-venture integration. A rebrand/fork of [Dagobert](https://github.com/SHOEGAZEssb/Dagobert) by SHOEGAZEssb. |
+| **[👃 HrothgarScent](https://github.com/ArcanineLS/HrothgarScent)** | A nearby-player list where every row shows whether that player is **targeting you** — a radar and a stalker-detector in one. Watcher history, escalating alerts, durable marks with notes and colours, optional nameplate colouring, and a full player profile pulled from the Lodestone. |
 
 ## ⚙️ How it works
 
