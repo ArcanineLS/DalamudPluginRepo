@@ -25,7 +25,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.4.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.4.0/latest.zip",
-        "DownloadCount": 19,
+        "DownloadCount": 20,
         "LastUpdate": "1784087398"
     },
     {
@@ -33,9 +33,9 @@
         "Name": "Hrothgar Scent",
         "Punchline": "Hrothgar smell you. Hrothgar know who watching.",
         "Description": "A nearby-player list where every row shows whether that player is targeting you, with a watcher history and alerts.",
-        "Changelog": "A near-total feature release. The window now splits into Nearby and Targeted tabs, and every row shows whether that player is watching you right now \u2014 a glance escalating to a stare to a fixation as they hold you. Marks let you keep durable notes, colours and focus/ignore flags on anyone. Alerts coalesce into one chat line and sound with a clickable link that targets the watcher, a one-click 'quiet this session', and notes for duties you clear together. Optional nameplate colouring for watchers and focused players. A full profile window \u2014 their Lodestone face and character page (Free Company, race, title, jobs by role, Eureka/Bozja/Occult Crescent progress and Phantom Jobs, their public comment) alongside everything you wrote \u2014 reachable from the game's own right-click menu anywhere a player is named. Nothing is collected in PvP.",
+        "Changelog": "A Journal, in-game portraits, and richer profiles. The new Journal window gathers everyone you have marked and \u2014 if you switch it on \u2014 everyone recorded near you, on their own filter rows for race, world and tag, searched and sorted. Turn on 'record every nearby player' to keep a durable log of who you meet; it stays separate from your marks and never touches them. Click a profile picture to capture and save that player's in-game Adventurer Plate portrait as your own copy. Profiles now show race and world as tags, how many times they have emoted at you this session, the duties you have cleared together, and the names they used to go by; marks remember when you first saw someone and how many times since. Quality-of-life throughout: double-click any window's title bar to collapse it to just the bar, hop between the Journal, settings and the main window from every window's top bar, and a focused player no longer re-announces their arrival while they stay in sight. Nothing is collected in PvP.",
         "InternalName": "HrothgarScent",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.2.0.0",
         "RepoUrl": "https://github.com/ArcanineLS/HrothgarScent",
         "ApplicableVersion": "any",
         "Tags": [
@@ -51,12 +51,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.1.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.1.0.0/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1784364063"
+        "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.0/latest.zip",
+        "DownloadCount": 7,
+        "LastUpdate": "1784424233"
     }
 ]
