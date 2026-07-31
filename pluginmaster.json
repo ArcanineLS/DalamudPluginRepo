@@ -25,7 +25,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.4.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.4.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 22,
         "LastUpdate": "1784087398"
     },
     {
@@ -56,7 +56,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.1/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 14,
         "LastUpdate": "1784426607"
     }
 ]
